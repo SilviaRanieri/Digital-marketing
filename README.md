@@ -1,4 +1,4 @@
-# Project Digital-marketing
+# Digital-marketing
 # Project in R 
 
 The purpose of the project is to present a data-driven communication strategy based on machine learning models.
